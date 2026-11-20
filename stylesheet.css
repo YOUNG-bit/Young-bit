@@ -264,3 +264,5 @@ span.badge {
 .publication-info > papertitle + br { display:none; }
 .publication-info > a:not([href]) { color:inherit; }
 .publication-info > strong,.publication-info em strong { font-size:15px; }
+
+.publication-authors sup { font-size:.7em; line-height:0; margin-left:1px; cursor:help; }
